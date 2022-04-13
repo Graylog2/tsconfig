@@ -1,0 +1,13 @@
+{
+  "name": "@graylog/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for Graylog projects",
+  "main": "tsconfig.json",
+  "repository": "https://github.com/Graylog2/tsconfig.git",
+  "author": "Graylog, Inc. <hello@graylog.com>",
+  "license": "MIT",
+
+  "files": [
+	  "tsconfig.json"
+  ]
+}
